@@ -1,0 +1,204 @@
+% $ biblatex auxiliary file $
+% $ biblatex bbl format version 3.3 $
+% Do not modify the above lines!
+%
+% This is an auxiliary file used by the 'biblatex' package.
+% This file may safely be deleted. It will be recreated by
+% biber as required.
+%
+\begingroup
+\makeatletter
+\@ifundefined{ver@biblatex.sty}
+  {\@latex@error
+     {Missing 'biblatex' package}
+     {The bibliography requires the 'biblatex' package.}
+      \aftergroup\endinput}
+  {}
+\endgroup
+
+
+\refsection{0}
+  \datalist[entry]{nty/global//global/global/global}
+    \entry{RepresenterTheorem}{article}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=a0eae7cf36050ed6a41ac3053002235d}{%
+           family={Grace\bibnamedelima Wahba},
+           familyi={G\bibinitperiod\bibinitdelim W\bibinitperiod},
+           given={Yuedong\bibnamedelima Wang},
+           giveni={Y\bibinitperiod\bibinitdelim W\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{a0eae7cf36050ed6a41ac3053002235d}
+      \strng{fullhash}{a0eae7cf36050ed6a41ac3053002235d}
+      \strng{fullhashraw}{a0eae7cf36050ed6a41ac3053002235d}
+      \strng{bibnamehash}{a0eae7cf36050ed6a41ac3053002235d}
+      \strng{authorbibnamehash}{a0eae7cf36050ed6a41ac3053002235d}
+      \strng{authornamehash}{a0eae7cf36050ed6a41ac3053002235d}
+      \strng{authorfullhash}{a0eae7cf36050ed6a41ac3053002235d}
+      \strng{authorfullhashraw}{a0eae7cf36050ed6a41ac3053002235d}
+      \field{sortinit}{G}
+      \field{sortinithash}{32d67eca0634bf53703493fb1090a2e8}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Representer Theorem}
+      \field{year}{2019}
+      \true{nocite}
+      \verb{urlraw}
+      \verb https://pages.stat.wisc.edu/~wahba/ftp1/wahba.wang.2019submit.pdf
+      \endverb
+      \verb{url}
+      \verb https://pages.stat.wisc.edu/~wahba/ftp1/wahba.wang.2019submit.pdf
+      \endverb
+    \endentry
+    \entry{RKHS}{article}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=1f42dc1a2d390bd84511cbccb6397013}{%
+           family={Gretton},
+           familyi={G\bibinitperiod},
+           given={Arthur},
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{1f42dc1a2d390bd84511cbccb6397013}
+      \strng{fullhash}{1f42dc1a2d390bd84511cbccb6397013}
+      \strng{fullhashraw}{1f42dc1a2d390bd84511cbccb6397013}
+      \strng{bibnamehash}{1f42dc1a2d390bd84511cbccb6397013}
+      \strng{authorbibnamehash}{1f42dc1a2d390bd84511cbccb6397013}
+      \strng{authornamehash}{1f42dc1a2d390bd84511cbccb6397013}
+      \strng{authorfullhash}{1f42dc1a2d390bd84511cbccb6397013}
+      \strng{authorfullhashraw}{1f42dc1a2d390bd84511cbccb6397013}
+      \field{sortinit}{G}
+      \field{sortinithash}{32d67eca0634bf53703493fb1090a2e8}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Introduction to RKHS, and some simple kernel algorithms}
+      \field{year}{2019}
+      \true{nocite}
+      \verb{urlraw}
+      \verb https://www.gatsby.ucl.ac.uk/~gretton/coursefiles/lecture4_introToRKHS.pdf
+      \endverb
+      \verb{url}
+      \verb https://www.gatsby.ucl.ac.uk/~gretton/coursefiles/lecture4_introToRKHS.pdf
+      \endverb
+    \endentry
+    \entry{KIMELDORF197182}{article}{}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=071eccdb947eb27d5f09dff82bd1cd12}{%
+           family={Kimeldorf},
+           familyi={K\bibinitperiod},
+           given={George},
+           giveni={G\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=8854589115ff3f8518458b3abd5243a4}{%
+           family={Wahba},
+           familyi={W\bibinitperiod},
+           given={Grace},
+           giveni={G\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{7c3cc10fffa038b76e6ab6aa3cf20564}
+      \strng{fullhash}{7c3cc10fffa038b76e6ab6aa3cf20564}
+      \strng{fullhashraw}{7c3cc10fffa038b76e6ab6aa3cf20564}
+      \strng{bibnamehash}{7c3cc10fffa038b76e6ab6aa3cf20564}
+      \strng{authorbibnamehash}{7c3cc10fffa038b76e6ab6aa3cf20564}
+      \strng{authornamehash}{7c3cc10fffa038b76e6ab6aa3cf20564}
+      \strng{authorfullhash}{7c3cc10fffa038b76e6ab6aa3cf20564}
+      \strng{authorfullhashraw}{7c3cc10fffa038b76e6ab6aa3cf20564}
+      \field{sortinit}{K}
+      \field{sortinithash}{c02bf6bff1c488450c352b40f5d853ab}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{This report derives explicit solutions to problems involving Tchebycheffian spline functions. We use a reproducing kernel Hilbert space which depends on the smoothness criterion, but not on the form of the data, to solve explicitly Hermite-Birkhoff interpolation and smoothing problems. Sard's best approximation to linear functionals and smoothing with respect to linear inequality constraints are also discussed. Some of the results are used to show that spline interpolation and smoothing is equivalent to prediction and filtering on realizations of certain stochastic processes.}
+      \field{issn}{0022-247X}
+      \field{journaltitle}{Journal of Mathematical Analysis and Applications}
+      \field{number}{1}
+      \field{title}{Some results on Tchebycheffian spline functions}
+      \field{volume}{33}
+      \field{year}{1971}
+      \true{nocite}
+      \field{pages}{82\bibrangedash 95}
+      \range{pages}{14}
+      \verb{doi}
+      \verb https://doi.org/10.1016/0022-247X(71)90184-3
+      \endverb
+      \verb{urlraw}
+      \verb https://www.sciencedirect.com/science/article/pii/0022247X71901843
+      \endverb
+      \verb{url}
+      \verb https://www.sciencedirect.com/science/article/pii/0022247X71901843
+      \endverb
+    \endentry
+    \entry{ridge}{video}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=68175965038228472d0494e25ef5b46b}{%
+           family={Normal},
+           familyi={N\bibinitperiod},
+           given={Very},
+           giveni={V\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{68175965038228472d0494e25ef5b46b}
+      \strng{fullhash}{68175965038228472d0494e25ef5b46b}
+      \strng{fullhashraw}{68175965038228472d0494e25ef5b46b}
+      \strng{bibnamehash}{68175965038228472d0494e25ef5b46b}
+      \strng{authorbibnamehash}{68175965038228472d0494e25ef5b46b}
+      \strng{authornamehash}{68175965038228472d0494e25ef5b46b}
+      \strng{authorfullhash}{68175965038228472d0494e25ef5b46b}
+      \strng{authorfullhashraw}{68175965038228472d0494e25ef5b46b}
+      \field{sortinit}{N}
+      \field{sortinithash}{22369a73d5f88983a108b63f07f37084}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{The idea that won the 2025 "Nobel Prize in Statistics”}
+      \field{year}{2025}
+      \true{nocite}
+      \verb{urlraw}
+      \verb https://www.youtube.com/watch?v=8Ae_QzwwR_U
+      \endverb
+      \verb{url}
+      \verb https://www.youtube.com/watch?v=8Ae_QzwwR_U
+      \endverb
+    \endentry
+    \entry{vanwieringen2023lecturenotesridgeregression}{article}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=ff3388cee5607ea4b85de7e183af17c3}{%
+           family={Wieringen},
+           familyi={W\bibinitperiod},
+           given={Wessel\bibnamedelima N.},
+           giveni={W\bibinitperiod\bibinitdelim N\bibinitperiod},
+           givenun=0,
+           prefix={van},
+           prefixi={v\bibinitperiod},
+           prefixun=0}}%
+      }
+      \strng{namehash}{ff3388cee5607ea4b85de7e183af17c3}
+      \strng{fullhash}{ff3388cee5607ea4b85de7e183af17c3}
+      \strng{fullhashraw}{ff3388cee5607ea4b85de7e183af17c3}
+      \strng{bibnamehash}{ff3388cee5607ea4b85de7e183af17c3}
+      \strng{authorbibnamehash}{ff3388cee5607ea4b85de7e183af17c3}
+      \strng{authornamehash}{ff3388cee5607ea4b85de7e183af17c3}
+      \strng{authorfullhash}{ff3388cee5607ea4b85de7e183af17c3}
+      \strng{authorfullhashraw}{ff3388cee5607ea4b85de7e183af17c3}
+      \field{sortinit}{W}
+      \field{sortinithash}{4315d78024d0cea9b57a0c6f0e35ed0d}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{eprintclass}{stat.ME}
+      \field{eprinttype}{arXiv}
+      \field{title}{Lecture notes on ridge regression}
+      \field{year}{2023}
+      \true{nocite}
+      \verb{eprint}
+      \verb 1509.09169
+      \endverb
+      \verb{urlraw}
+      \verb https://arxiv.org/abs/1509.09169
+      \endverb
+      \verb{url}
+      \verb https://arxiv.org/abs/1509.09169
+      \endverb
+    \endentry
+  \enddatalist
+\endrefsection
+\endinput
+
